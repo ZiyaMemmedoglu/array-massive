@@ -1,0 +1,14 @@
+C:\Users\ZIYA MUSAYEV\source\repos\home task array massive\home task array massive\obj\Debug\net8.0\home task array massive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZIYA MUSAYEV\source\repos\home task array massive\home task array massive\obj\Debug\net8.0\home task array massive.AssemblyInfoInputs.cache
+C:\Users\ZIYA MUSAYEV\source\repos\home task array massive\home task array massive\obj\Debug\net8.0\home task array massive.AssemblyInfo.cs
+C:\Users\ZIYA MUSAYEV\source\repos\home task array massive\home task array massive\obj\Debug\net8.0\home task array massive.csproj.CoreCompileInputs.cache
+C:\Users\ZIYA MUSAYEV\source\repos\home task array massive\home task array massive\bin\Debug\net8.0\home task array massive.exe
+C:\Users\ZIYA MUSAYEV\source\repos\home task array massive\home task array massive\bin\Debug\net8.0\home task array massive.deps.json
+C:\Users\ZIYA MUSAYEV\source\repos\home task array massive\home task array massive\bin\Debug\net8.0\home task array massive.runtimeconfig.json
+C:\Users\ZIYA MUSAYEV\source\repos\home task array massive\home task array massive\bin\Debug\net8.0\home task array massive.dll
+C:\Users\ZIYA MUSAYEV\source\repos\home task array massive\home task array massive\bin\Debug\net8.0\home task array massive.pdb
+C:\Users\ZIYA MUSAYEV\source\repos\home task array massive\home task array massive\obj\Debug\net8.0\home task array massive.dll
+C:\Users\ZIYA MUSAYEV\source\repos\home task array massive\home task array massive\obj\Debug\net8.0\refint\home task array massive.dll
+C:\Users\ZIYA MUSAYEV\source\repos\home task array massive\home task array massive\obj\Debug\net8.0\home task array massive.pdb
+C:\Users\ZIYA MUSAYEV\source\repos\home task array massive\home task array massive\obj\Debug\net8.0\home task array massive.genruntimeconfig.cache
+C:\Users\ZIYA MUSAYEV\source\repos\home task array massive\home task array massive\obj\Debug\net8.0\ref\home task array massive.dll
