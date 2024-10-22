@@ -53,3 +53,32 @@
 
 
 #endregion
+
+#region
+//Verilmiş müsbət tam n ədədinin 2-nin qüvvəti olub-olmamasını tapın
+//int num = 19;
+//while (num % 2 == 0)
+//{
+//    num /= 2;
+
+//}
+//if (num == 1)
+//    Console.WriteLine("quvvetidir");
+//else
+//    Console.WriteLine("quvveti deyil");
+
+#endregion
+
+
+#region
+
+//Verilmiş n tam ədədinin neçə mərtəbəli olduğunu tapın. Məs: 23452, output: 5
+//int num = 456667;
+//int count = 0;
+//while(num>0)
+//{
+//    num/=10;
+//    count++;
+//}
+//Console.WriteLine(" ededin mertebesi:" +count + " - qederdir");
+#endregion

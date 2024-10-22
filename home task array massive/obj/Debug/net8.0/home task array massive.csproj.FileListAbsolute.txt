@@ -12,3 +12,4 @@ C:\Users\ZIYA MUSAYEV\source\repos\home task array massive\home task array massi
 C:\Users\ZIYA MUSAYEV\source\repos\home task array massive\home task array massive\obj\Debug\net8.0\home task array massive.pdb
 C:\Users\ZIYA MUSAYEV\source\repos\home task array massive\home task array massive\obj\Debug\net8.0\home task array massive.genruntimeconfig.cache
 C:\Users\ZIYA MUSAYEV\source\repos\home task array massive\home task array massive\obj\Debug\net8.0\ref\home task array massive.dll
+C:\Users\ZIYA MUSAYEV\source\repos\home task array massive\home task array massive\obj\Debug\net8.0\home task array massive.sourcelink.json
