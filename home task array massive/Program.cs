@@ -33,24 +33,13 @@
 #region
 //task 3.Verilmiş Arrayın ilk və son elementlərinin cəmini tapın
 
+
 //int[] number = { 5, 2, 3, 4, 5, 6, 15 };
-//int sum = default;
-//for (int i = 0; i < number.Length; i++)
-//    if (number[i] == 0)
-//        break;
-//{
-//    Console.WriteLine(number[0]);
-//}
-//for (int i = 0; i < number.Length; i++)
-//    if (number[i] == 0)
-//        break;
-//Console.WriteLine(number[number.Length - 1]);
 
-//for (int i = 0; i < number.Length; i++) ;
-//sum = number[0] + (number[number.Length - 1]);
+//int firstValue = number[0];
+//int lastValue= number[number.Length-1];
+//int sum=firstValue+lastValue;
 //Console.WriteLine(sum);
-
-
 
 #endregion
 
