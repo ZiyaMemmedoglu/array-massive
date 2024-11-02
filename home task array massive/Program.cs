@@ -1,7 +1,4 @@
-﻿
-
-
-#region
+﻿#region 
 
 //homm task1.Verilmiş Arrayın elementlərinin cəmini ekrana çap edin
 
@@ -70,4 +67,27 @@
 //    count++;
 //}
 //Console.WriteLine(" ededin mertebesi:" +count + " - qederdir");
+#endregion
+
+
+#region 
+//6.Verilmiş artan sıra ilə düzülmüş ədədlər siyahısındaki n ədədinin yerləşdiyi indexi tapan alqoritm.
+//(Meselen 50 axtaririq egər siyahıda 50 ədədi yoxdursa -1 print olsun, varsa var olduğu index)
+
+//int[] numbers = { 13, 23, 33,50,53, 63,};
+//int count = 0;
+//for (int i = 0; numbers.Length> i; i++)
+//{
+//    if (numbers[i] == 50)
+
+//        Console.WriteLine(i);
+//    else
+    
+//    {
+//        count ++;
+//        if (count ==numbers.Length )
+//        Console.WriteLine(" -1");
+//    }
+//}
+
 #endregion

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("home task array massive")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fda27a3d9abda8a15c847cdd270003f179ec9e5b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b1e990109c65aba36857304faa9dd440ec2f47f")]
 [assembly: System.Reflection.AssemblyProductAttribute("home task array massive")]
 [assembly: System.Reflection.AssemblyTitleAttribute("home task array massive")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
